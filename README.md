@@ -4,7 +4,7 @@
 
 **What I'm working on**
 - [VacantCourt](https://github.com/sohan-bhat/VacantCourt) + [VacantCourtApp](https://github.com/sohan-bhat/VacantCourtApp) — a real-time court occupancy system. Kotlin + TensorFlow Lite Android detector pushes live status to a Firebase + React web app.
-- [FRC Team 2714](https://github.com/FRC2714) — robot code (Java) for the 2025 Reefscape season.
+- [FRC Team 2714](https://github.com/FRC2714) — robot code (Java) for the 2025 Reefscape and 2026 Rebuilt season.
 - [CareerAI](https://github.com/sohan-bhat/CareerAI) — career recommender based on user interests.
 - [Foodify](https://github.com/sohan-bhat/Foodify) — finds recipes from ingredients you already have.
 
