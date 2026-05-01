@@ -3,9 +3,10 @@
 15, sophomore at Heritage HS in Frisco, TX. Mostly building things that involve some mix of CV, mobile, and full-stack web.
 
 **What I'm working on**
-[VacantCourt](https://github.com/sohan-bhat/VacantCourt) + [VacantCourtApp](https://github.com/sohan-bhat/VacantCourtApp): a real-time court occupancy system. Kotlin + TensorFlow Lite Android detector pushes live status to a Firebase + React web app.
-[Mochi](https://github.com/sohan-bhat/Mochi) — finds recipes from ingredients you already have.
-[FRC Team 2714](https://github.com/FRC2714): robot code (Java) for the 2025 Reefscape and 2026 Rebuilt season.
+<br/>
+[VacantCourt](https://github.com/sohan-bhat/VacantCourt) + [VacantCourtApp](https://github.com/sohan-bhat/VacantCourtApp): a real-time court occupancy system. Kotlin + TensorFlow Lite Android detector pushes live status to a Firebase + React web app.<br/>
+[Mochi](https://github.com/sohan-bhat/Mochi): finds recipes from ingredients you already have.<br/>
+[FRC Team 2714](https://github.com/FRC2714): robot code (Java) for the 2025 Reefscape and 2026 Rebuilt season.<br/>
 [CareerAI](https://github.com/sohan-bhat/CareerAI) : career recommender based on user interests.
 
 **Stack I reach for**
