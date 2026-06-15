@@ -4,11 +4,11 @@
 
 **What I'm working on**
 <br/>
+[signnet](https://github.com/sohan-bhat/signnet): A convolutional neural network that classifies German traffic signs into 43 categories; the network, including backpropagation, is written directly in NumPy with no deep learning frameworks
 [VacantCourt](https://github.com/sohan-bhat/VacantCourt) + [VacantCourtApp](https://github.com/sohan-bhat/VacantCourtApp): a real-time court occupancy system. Kotlin + TensorFlow Lite Android detector pushes live status to a Firebase + React web app.<br/>
 [Mochi](https://github.com/sohan-bhat/Mochi): finds recipes from ingredients you already have.<br/>
 [FRC Team 2714](https://github.com/FRC2714): robot code (Java) for the 2025 Reefscape and 2026 Rebuilt season.<br/>
 [FRC Team 2728](https://github.com/FRC2714/Taco-Rebuilt-2026): robot code (Java) for the 2025 Reefscape and 2026 Rebuilt season.<br/>
-[CareerAI](https://github.com/sohan-bhat/CareerAI) : career recommender based on user interests.
 
 **Stack I reach for**
 TypeScript / React, Python, Kotlin, Java, Firebase, TensorFlow Lite
