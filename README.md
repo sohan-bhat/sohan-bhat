@@ -14,4 +14,4 @@
 TypeScript / React, Python, Kotlin, Java, Firebase, TensorFlow Lite
 
 **Reach me**
-sohanrambhat@gmail.com · [My Portfolio](https://sohanbhat.netlify.app)
+sohanrambhat@gmail.com · [My Portfolio](https://sohan-bhat.github.io)
