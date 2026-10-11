@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sohan-bhat.github.io"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sohan-bhat.github.io"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio" /></a>
   <a href="https://sohan-bhat.github.io/halt-preprint.pdf"><img src="https://img.shields.io/badge/Preprint-21262d?style=for-the-badge&logo=googlescholar&logoColor=white" alt="HALT preprint" /></a>
   <a href="mailto:sohanrambhat@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/The_Sohan_Bhat"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
