@@ -13,13 +13,13 @@
 
 ## About
 
-I'm a sophomore at Heritage High School in Frisco, Texas. I write machine learning models without frameworks to understand why they work. One of them, SignNet, turned into a research project on silent training failures. I also write robot code for FRC Team 2714 and train for USACO Gold.
+I'm a sophomore at Heritage High School in Frisco, Texas. Interested in machine learning, neural networks, and the math behind them. One of them, SignNet, turned into a research project on silent training failures. I also write robot code for FRC Team 2714 and train for USACO Gold.
 
 ## Research
 
 **[Early detection of silent training failures in neural networks](https://sohan-bhat.github.io/halt-preprint.pdf)** (2026)
 
-The network trains, the loss falls, and the model is still wrong. HALT (Health Analysis of Layers during Training) is a paper on catching that early.
+Usually during training, losses tend to plateau due to training instabilities which lead to wasted compute and time. HALT (Health Analysis of Layers during Training) is a preprint on catching that early.
 
 [Read the preprint](https://sohan-bhat.github.io/halt-preprint.pdf), [Code](https://github.com/sohan-bhat/halt)
 
