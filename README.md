@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://sohan-bhat.github.io"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://sohan-bhat.github.io/lhd-paper.pdf"><img src="https://img.shields.io/badge/Paper-21262d?style=for-the-badge&logo=googlescholar&logoColor=white" alt="LHD paper" /></a>
+  <a href="https://sohanbhat.me/">sohanbhat.me</a>
+</p>
+
+<p align="center">
+  <a href="https://sohanbhat.me/"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwTTEyIDJhMTUgMTUgMCAwIDAgMCAyMCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sohanbhat.me/lhd-paper.pdf"><img src="https://img.shields.io/badge/Paper-21262d?style=for-the-badge&logo=googlescholar&logoColor=white" alt="LHD paper" /></a>
   <a href="mailto:sohanrambhat@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/The_Sohan_Bhat"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
@@ -17,17 +21,19 @@ I'm a sophomore at Heritage High School in Frisco, Texas. Interested in machine 
 
 ## Research
 
-**[Early detection of silent training failures in neural networks](https://sohan-bhat.github.io/lhd-paper.pdf)** (2026)
+**[Early detection of silent training failures in neural networks](https://sohanbhat.me/lhd-paper.pdf)** (2026)
 
 Usually during training, losses tend to plateau due to training instabilities which lead to wasted compute and time. LHD (Layer Health Diagnostics) is a paper on catching that early.
 
-[Read the paper](https://sohan-bhat.github.io/lhd-paper.pdf), [Code](https://github.com/sohan-bhat/lhd)
+[Read the paper](https://sohanbhat.me/lhd-paper.pdf), [Code](https://github.com/sohan-bhat/lhd)
 
 ## Projects
 
 | Project | What it does | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **oopsy** | Undo for <code>rm -rf</code>. Snapshots your files, git state, and Postgres data right before a destructive command runs. Type <code>oops</code> to get it back. | Go, Postgres, JavaScript | [Site](https://sohan-bhat.github.io/oopsy), [Code](https://github.com/sohan-bhat/oopsy) |
+| **OpenHAL** | Lets AI agents control real hardware through one protocol. | Python, MCP, Svelte | [Site](https://sohanbhat.me/OpenHAL/), [Code](https://github.com/sohan-bhat/OpenHAL) |
+| **wobbl** | Wobbl is a physics simulator for hobbyists up to elite engineers. | Python, SciPy, Three.js | [Site](https://sohanbhat.me/wobbl/), [Code](https://github.com/sohan-bhat/wobbl), [Video](https://www.youtube.com/watch?v=RtCNKbhABqE) |
+| **oopsy** | Undo for <code>rm -rf</code>. Snapshots your files, git state, and Postgres data right before a destructive command runs. Type <code>oops</code> to get it back. | Go, Postgres, JavaScript | [Site](https://sohanbhat.me/oopsy/), [Code](https://github.com/sohan-bhat/oopsy) |
 | **taro** | A voice assistant for Google Meet. Say "Hey Taro" and it posts to Slack, files GitHub issues, or adds to a to-do list. | TypeScript, Next.js, Gemini | [Demo](https://trytaro.vercel.app/demo), [Code](https://github.com/sohan-bhat/Taro) |
 | **signnet** | Classifies German traffic signs into 43 categories with 90% accuracy. The CNN, backpropagation included, is written in NumPy with no deep learning framework. | Python, NumPy, React | [Site](https://signnet-cnn.netlify.app/), [Code](https://github.com/sohan-bhat/signnet) |
 | **ensemble** | An r/place for music: one orchestral score the whole world writes, note by note. | React, Express, VexFlow | [Site](https://ensemble-qnd2.onrender.com/), [Code](https://github.com/sohan-bhat/ensemble) |
