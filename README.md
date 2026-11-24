@@ -15,7 +15,7 @@
 
 | Project | About |
 | :-- | :-- |
-| [signnet](https://sohanbhat.me/signnet/) | Neural network written by hand, 90.06% on traffic signs |
+| [signnet](https://sohanbhat.me/signnet/) | Neural network in pure math, 90.06% on traffic signs |
 | [OpenHAL](https://sohanbhat.me/OpenHAL/) | Lets AI agents control hardware through 36 drivers |
 | [wobbl](https://sohanbhat.me/wobbl/) | Simulates parts and circuits before you build them |
 | [oopsy](https://sohanbhat.me/oopsy/) | Undo for <code>rm -rf</code>, git and database mistakes |
